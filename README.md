@@ -5,11 +5,11 @@ open your terminal in the folder where you have downloaded the project
 
 If want to use virtual enviornemnt run this command first in CMD otherwise follow from command 3 
 
- 1- conda create -n your-env-name python=3.10
- 2- conda activate your-env-name/
+1- conda create -n your-env-name python=3.10
+2- conda activate your-env-name/
+
 
 3- pip install -r requirements.txt
-
 4- streamlit run app.py
 
 After follwing the process App will open in the browswer upload your PDS file and enjoy having a conversation with the PDF

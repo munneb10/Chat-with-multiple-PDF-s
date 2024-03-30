@@ -1,4 +1,4 @@
-To run this project Follow the follwowing process
+To run this project Follow the given process
 
 open your terminal in the folder where you have downloaded the project
   (Note - Before running this project open .env file and put your key in GOOGLE_API_KEY = "your-api-key". You can found your GOOGle API KEY at https://makersuite.google.com/)

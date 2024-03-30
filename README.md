@@ -3,7 +3,7 @@ To run this project Follow the given process
 open your terminal in the folder where you have downloaded the project
   (Note - Before running this project open .env file and put your key in GOOGLE_API_KEY = "your-api-key". You can found your GOOGle API KEY at https://makersuite.google.com/)
 
-If want to use virtual enviornemnt run this command first in CMD otherwise follow from command 3 
+If want to use virtual enviornemnt run two command first in CMD otherwise follow from command 3 
 
 1. conda create -n your-env-name python=3.10
 2. conda activate your-env-name/
